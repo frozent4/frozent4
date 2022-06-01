@@ -6,7 +6,7 @@
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, ReactJS, NextJS and NodeJS.
 - 📚 I’m currently learning everything about backend  technologies 
-- 🎯 Mi proximo paso sera flutter 🐦 para desarrollo mobile
+- 🎯 My next step will be flutter 🐦 for mobile development
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play  Dota2 <img width=20px height=15px src="./docs/dota2.jpg" />.
 
