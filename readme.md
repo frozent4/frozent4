@@ -1,11 +1,12 @@
 # Hi there, I'm Jose Antonio 
 
-<img align="right" alt="GIF" height="160px" src="./docs/20220213_141406%20(1).jpg" />
+<img align="right" alt="GIF" height="160px" src="./docs/cartoon.jpg" />
 
 ## I'm a Software Engineering   
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, ReactJS, NextJS and NodeJS.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 📚 I’m currently learning everything about backend  technologies 
+- 🎯 Mi proximo paso sera flutter 🐦 para desarrollo mobile
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play  Dota2 <img width=20px height=15px src="./docs/dota2.jpg" />.
 
