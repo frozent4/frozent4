@@ -1,6 +1,6 @@
 # Hi there, I'm Jose Antonio 
 
-<img align="right" alt="GIF" height="160px" src="./docs/20211015_192545-01.jpeg" />
+<img align="right" alt="GIF" height="160px" src="./docs/20220213_141406%20(1).jpg" />
 
 ## I'm a Software Engineering   
 
